@@ -13,4 +13,5 @@ Start frontend with
 npm start
 ```
 
-
+Usage:
+create an "infinite_db" database, then import inside it the "users.sql" file.
